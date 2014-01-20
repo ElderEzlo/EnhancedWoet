@@ -1,8 +1,8 @@
 --Edit Keybindings Here
-jumpKey = "J"
-rollKey = "K"
-spinKey = "L"
-flipKey = ";"
+jumpKey = "7"
+rollKey = "8"
+spinKey = "9"
+flipKey = "0"
 
 --Set to false to disable a manoeuvre
 jumpEnabled = true

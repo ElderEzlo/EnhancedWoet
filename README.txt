@@ -22,8 +22,8 @@ II. USAGE
 =========
 
 By default, the various actions use the following key bindings:
-Jump: J
-Roll: K
-Spin: L
-Flip: ;
+Jump: 7
+Roll: 8
+Spin: 9
+Flip: 0
 These can be edited at the top of the client\EnhancedWoet.lua file. Immediately after the keybindings, you can disable any of the manoeuvers if you want.
